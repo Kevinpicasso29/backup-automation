@@ -1,0 +1,5 @@
+backup-automation/
+│
+├── backup_script.py        # Script principal de backup
+├── requirements.txt        # Dependências do projeto
+└── README.md               # Documentação do projeto
